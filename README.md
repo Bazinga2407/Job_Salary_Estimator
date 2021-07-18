@@ -58,7 +58,9 @@ After scraping the data, we need to clean it up so that it is usable for model c
 I looked at the distributions of the data and the value counts for the various categorical variables. Below are a few highlights from the pivot tables. 
 
 ![alt text](https://github.com/Bazinga2407/Job_Salary_Estimator/blob/main/salary_by_job_title.PNG "Salary by Position")
-![alt text](https://github.com/Bazinga2407/Job_Salary_Estimator/blob/main/positions_by_state.PNG "Job Opportunities by State")
+![alt text](https://github.com/Bazinga2407/Job_Salary_Estimator/blob/main/positions_by_state.png "Job Opportunities by State")
+![alt text](https://github.com/Bazinga2407/Job_Salary_Estimator/blob/main/correlation_visual.png "Correlations")
+
 
 ## Model Building 
 
