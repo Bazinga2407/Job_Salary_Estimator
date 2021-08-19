@@ -70,8 +70,8 @@ I tried three different models and evaluated them using Mean Absolute Error. I c
 
 I tried three different models:
 *	**Multiple Linear Regression** – Baseline for the model
-*	**Lasso Regression** – Because of the sparse data from the many categorical variables, I thought a normalized regression like lasso would be effective.
-*	**Random Forest** – Again, with the sparsity associated with the data, I thought that this would be a good fit. 
+*	**Lasso Regression** – Because of the sparse data from the many categorical variables, a normalized regression like lasso would be effective.
+*	**Random Forest** – With the sparsity associated with the data,  this would be a good fit. 
 
 ## Model performance
 The Random Forest model far outperformed the other approaches on the test and validation sets. 
